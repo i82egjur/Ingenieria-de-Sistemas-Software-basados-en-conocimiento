@@ -6,7 +6,7 @@
 
 
 
-## 1. Entorno spyder
+## 1. INSTALACIÓN CONDA
 
 Para esto, primero instalamos anaconda3 de acuerdo a las indicaciones del sitio web:  _Installing on Linux — Anaconda documentation_(2021).
 

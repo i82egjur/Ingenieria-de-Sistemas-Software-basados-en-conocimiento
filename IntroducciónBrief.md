@@ -41,41 +41,7 @@ que estudian los métodos y las técnicas adecuadas para la represntación de es
 - Tratamos dee identificr y analizar la ocurrencia de difeentes procesos inferenciales 
   de ocurrencia simultanea o sucesiva a los q e le asignan manitudes simbólicas.
  
- - Los xplicamos a través de 
+ - Los explicamos a través de 
   - Busqueda de leyes a nivel superior
   - Predecir lo ocurriría en otros casos no estudiados
 
--    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-  
-  
-  

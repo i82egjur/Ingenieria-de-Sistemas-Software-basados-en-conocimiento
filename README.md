@@ -7,8 +7,11 @@ X | ✅
 
 ## TEMA 1
 [✅] Introducción a la inteligencia Artificial
+
 [✅] Introducción a los Sistemas Basados en Conocimiento
+
 [X] Evolución histórica de la Ingeniería del Conocimiento
+
 
 ## TEMA 2
 
@@ -33,6 +36,7 @@ X | ✅
 
 ## TEMA 9
 [X] (2021)Desarrollo de una aplicación básica
+
 [X] (2021)Cuaderno de prácticas
 
 ## TEMA 10

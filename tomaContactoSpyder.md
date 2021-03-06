@@ -54,9 +54,9 @@ esta cadena por la del archivo correspondiente.
 ### 3. slider.py
 - En este encuentro algo relativo a las clases, que tambíen estaba presente en ejercicios anteriores, que nos llama la atención. Esto es la función
   
-  def __init__(self):
+  `def __init__(self):
         super().__init__()
-        self.__init__()
+        self.__init__()`
 
 
 

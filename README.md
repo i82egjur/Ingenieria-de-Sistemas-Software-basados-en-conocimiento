@@ -1,11 +1,13 @@
 # Ingenieria de Sistemas Software basados en conocimiento
 
 ***Apuntes y ejercicios***
-X | 
+
+
+X | ✅
 
 ## TEMA 1
-[X] Introducción a la inteligencia Artificial
-[X] Introducción a los Sistemas Basados en Conocimiento
+[✅] Introducción a la inteligencia Artificial
+[✅] Introducción a los Sistemas Basados en Conocimiento
 [X] Evolución histórica de la Ingeniería del Conocimiento
 
 ## TEMA 2
@@ -26,7 +28,7 @@ X |
 
 
 ## TEMA 8 
-[X] Cuaderno de prácticas 2021
+[✅] Cuaderno de prácticas 2021
 
 
 ## TEMA 9

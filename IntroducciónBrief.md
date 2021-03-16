@@ -2,22 +2,22 @@
 # Introducción
 
 ## Propósito de la IA
-El próposito de la Inteligencia artificial, es hacer
-comoutable el conocimiento humano no analítico, por
-procedimientos sibólicos, coexionistas o híbridos.
+- El **próposito de la Inteligencia artificial**, es hacer
+**computacional** el **conocimiento humano no analítico**, por
+procedimientos *simbólicos*, *coexionistas* o *híbridos*.
 
-Para el analitico existen otras ramas de la computacion
-que estudian los métodos y las técnicas adecuadas para la represntación de estas
+Para el **analitico** existen otras ramas de la computacion
+que estudian los métodos y las técnicas adecuadas para la representación formal
+y posterior desarrollo de los programas de ordenador.
 
 
-## CXriterio para su estudio
+## Criterio para su estudio
+- Criterios extencionales
+  - Temas que estudia
 
 - Criterios intencionales
-  Establecer reglas de clasificacón del problema.
+  - Establecer reglas de clasificacón del problema.
   
-- Criteios extencionales
-  Temas que estudia
- 
 ## Perspectivas básicas
 
 - IA como ciencia de lo natural
@@ -29,10 +29,12 @@ que estudian los métodos y las técnicas adecuadas para la represntación de es
 - C. Simbólica
   - Grano gueso
   - Programable
+    - Programación de sistemas expertos, lisp, prolog 
 
 - C. Conexionista
   - G. pequeño
   - Autoprogramable
+    - Redes neuronales 
 
 ## Objeto formal
 

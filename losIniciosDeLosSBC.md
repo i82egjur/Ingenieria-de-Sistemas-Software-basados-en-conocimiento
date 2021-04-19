@@ -30,12 +30,20 @@ Sgún este proceso, el conocimiento se obtenía:
 - Preguntando a los expertos como resolver el problemas.
 - Después el ingeniero codificaba en forma de reglas heurísticas que trasladaban las caracteristicas observables del problema a las conclusiones.
 
-Estos SBC eran:
+Estos SBC tenian:
 - Una estructura de control simple
 - Una representación uniforme del conocimiento.
-- Conocimiento representado en un solo nivel de abstracción
+- Conocimiento representado en un solo nivel de abstracción e implicitamente se combinaba el conocimiento.
+  - Como hacer una tarea y explicar por qué funcionan las cosa. 
 
+Consescuencias conocimiento no estructurado:
+- Trasferencia al campo comercial fue en su maoría un fracaso.
+- Problemas de estimación del tiempo de desarrollo
+- Mantenimiento dificil y costoso.
 
+La fase de análisis no se incluía en el desarrollo, estp es parecido a lo que ocurrió con la crisis del software, siguiendo el ejemplo de los anteriores, se mostró la necesidad de unos planteamiento más metodológicos, esto dio resultado a la IC como disciplina de IA.
+
+Objetivo de IC: el proceso de construccion pasa de ser un arte a ser un proceso de ingeniería.
 
 
 

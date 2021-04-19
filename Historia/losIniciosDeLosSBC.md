@@ -1,13 +1,12 @@
 # Los inicios de los SBC.
 
 El objetivo de la IA era desarrollar sistema que pudieran resolvar problemas inteligentemente como los expertos humanos.
-- Frikes y Nilsson en 1971, desarrollaron STRIPS.
-- Newell y Simon en 1963, el GPS (General Problem Solver)
+
 
 Sin embargo, a finales de los setenta, se dieron cuenta que:
 - Los metodos generales desarrollados en los 10 años anteriores eran insuficientes para ciertos problemas.
 - Como consecuencia se empezó a considerar que:
-  - El conocimiento sobre el dominio del problema era más importante que el mecanismo de inferencia.
+  - El potencial del computador radicaba en el conocimiento sobre el dominio del problema más que en el mecanismo de inferencia.
   - Esto llevó a los investigado a afirmar que:
     - El conocimiento podía ser adquirido de los expertos.
     - El conocimiento podía tansferirse a un computador a través de una representación manipulable.
@@ -25,10 +24,10 @@ En estos sistemas, los requisitos eran relegados a un segundo plano, el desarrol
   - No se suelen cumplir los requisitos
   - Mantenimiento muy costoso.  
 
-Este proceso se transformo en el proceso de asquisición y codificacion para satisfacer las caracteristicas de los SBC.
+Para satisfacer las caracteristicas demandadas por los SBC, esto se transformó en un proceso de aquisición y codificación.
 Sgún este proceso, el conocimiento se obtenía:
 - Preguntando a los expertos como resolver el problemas.
-- Después el ingeniero codificaba en forma de reglas heurísticas que trasladaban las caracteristicas observables del problema a las conclusiones.
+- Después el ingeniero codificaba en forma de reglas heurísticas que pasaban  de las caracteristicas observables del problema a las conclusiones.
 
 Estos SBC tenian:
 - Una estructura de control simple

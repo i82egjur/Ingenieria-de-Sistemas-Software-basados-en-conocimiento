@@ -50,17 +50,26 @@ Hipótesis del Nivel de Conocimiento:
     que se quiere alcanzar.
 
 - El conocimiento se puede descirbir tanto en:
-  - Terminos funcionales.
-  - Terminos estructurales.
+  - Terminos funcionales. ¿Que hace? 
+  - Terminos estructurales. Propiedades y relaciones
 
 - El conocimiento **NO** se puede describir como una secuencia de estados en los que encontrar las esctructuras físicas.
 - Esto hace que el conocimiento sea una entidad abstracta y que no se pueda hacer explícito con la misma facilidad que los medios del resto de niveles.
 
-- Si a esto le unimos el hecho que el conocimineto era parte del nivel simbólico, la construcción de SBC debia superar:
+- Si a esto le unimos el hecho que antes el conocimiento era parte del nivel simbólico, la construcción de SBC debia superar:
 - La dificultad de la detección y explicitación del conocimiento.
 - El intento de codificarlo en el nivel simbólico.
 
+El nivel simbólico solo debería reflejar un conjunto reducido de los posibles comportamientos que no podemos
+representar un comportamiento indeterminista mediante estructuras deterministas.
 
+La solución de estos problemas es la consideración del NIVEL DE CONOCIMIENTO.
+
+En el nivel de conocimiento no existe ninguna ley de composición que indique como ensamblar los elementos.
+Esta ausencia de estructura es clave ya que el comportamiento del sistema se define en base a lo que el agente sabe y no en la forma en como se unen
+sus compoenentes.
+Lo que hace que el comportamiento del sistema solo dependa de lo que el agente sepa, quiera y los medios con los que interacciona con el exterior.
+Esta característica será el punto de partida de la idea de la reutilización del conocimiento. 
 
 
 

@@ -15,9 +15,9 @@ Aquello SBC que se relacionan con el conocimiento usado por expertos, pueden cap
 
 ## Componentes SBC.
 - Una estructura de datos
-- Relaciones de caracter declarativo y procedimental
-- Representaciones heurísticas
-- Mecanismos para realizar inferencias
+- Relaciones de caracter declarativo y procedimental (ontologias, mrp)
+- Representaciones heurísticas-> Simplifican esp busqueda
+- Mecanismos para realizar inferencias (comparacion de patrones, herencia)
 - Procesos para la toma de decisiones
 - Mecanismos de aprendizaje y comunicación en lenguaje natural.
 

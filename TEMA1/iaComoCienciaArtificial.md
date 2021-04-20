@@ -33,7 +33,6 @@
         - Se parte de una descripción de alto nivel
           - Se ha de obtener el conocimiento
           - Se busca como representarlo 
-        - Se obtiene conocimiento (humano u otras fuentes)
         - Se busca como representar este conocmiento
         - Se selecciona tecnicas adecuadas para su implementación
         - Se desarrolla el primer prototipo que despues se refina

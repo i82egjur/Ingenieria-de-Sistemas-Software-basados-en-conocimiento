@@ -2,17 +2,14 @@
 
 ## ¿Qué es?
 - Es una ciencia de sintesis que aspira a ser una ingeniería.
-  - A partir de un conjunto de especificaciones funcionales.
-  - Se busca la sintesis de un programa haciendo uso de una **metodología.**
+  - A partir de un conjunto de especificaciones funcionales hacer la sintesis de un programa haciendo uso de una **metodología.**
 
-## Metodología.
 - Esta metodología, trabaja con la información y el conocimiento para:
   - Identificarlo
   - Modelarlo
   - Representarlo
   - Realizar inferencias con el
-- Para desarrollar un programa a partir del modelo. 
-
+  
 ## Tareas abordadas por la IA.
 - Tareas de alto nivel
 - Tareas relacionadas con procesos cognoscitivos
@@ -45,21 +42,19 @@
   -** Comportamiento artificial** 
     - Busca describir el comportamiento humano utilizando constructores epistemologicos descritos para descirbirlo 
       como la inteligencia, compresnsión, aprendizaje...
-    - Aparente este comportamiento es simple.
-    - Pero requiere de una enorme complejidad al sistetizarse
-    - Uso masivo de conocimiento y se sospecha de la necesidad de un nuevo lenguaje de representación con la robustez de un lenguaje natural. 
+    - Aparentemente su comportamiento es simple.
+    - Pero requiere de un uso masivo de conocimiento y se sospecha de la necesidad de un nuevo lenguaje de representación con la robustez de un lenguaje natural. 
   - Diagrama funcional del agente:
     - Tareas perceptoras.
-      - El agente interacciona a través de los sensores para identificar al medio de acuerdo a un modelo de representación que permite comprender imagenes y palabras.
+      - El agente interacciona a través de los sensores para identificar al medio de acuerdo a un modelo de representación que permite comprender imagenes y          palabras.
     - Motoras
       - Tareas que inciden en el medio controlando manipuladores, produciendo palabras, coordinando acciones para navegar. 
     - Decisión. 
-      - Entre las anteriores, estan las tareas de decision que incluyen procesos congnoscitivos, para esto, surgió lo que newell llama principio de racionalidad.  
+      - Entre las anteriores, estan las tareas de decision que incluyen procesos congnoscitivos, que aplican el principo de racionalida de Newell.  
 
   - Que entendemos por sistema de IA
     - Cada vez que encontremos un procedimiento para identificar, modelar, capturar y representar conocimiento para realizar las tareas de percepción, decisión o motras.
-  -  El problema de la IA es pasar de las especificaciones a los sistemas, para ello la IA quiere encontrar programas traductores que conecten las primitivas de bajo nivel
-  -  con la de un lenguaje de representación proximo al natural.
+  -  El problema de la IA es pasar de las especificaciones a los sistemas, para ello la IA quiere encontrar programas traductores que conecten las primitivas de bajo nivel con la de un lenguaje de representación proximo al natural.
 
 ## Cuando tenemos un problema de IA
 1. No exista una solución anlitica o algoritmica conocida
@@ -75,5 +70,3 @@ se tratan por lo métodos asociados a las clases que pertenecen
 - Separa el conocimineto de su uso en ingerencia y hace enfasis en el primero
 - Permite manejar el razonamiento impreciso y temporal
 - Incluye algún tipo de aporendizaje: Simbólico o conexionista.
-
- 

@@ -28,9 +28,11 @@
     - Tareas de **modificación**, (reparacion, control, supervision, aprendizaje)
     - Tareas de **síntesis**  (diseño, planificación, modelado)
     - Manejan  un conocimiento limitado, que se puede formalizar mediante leyes
-    - Esto ha crecido mucho hasta crear la Ingeniería del conocimiento que busca una metodologóa para estos sistemas.
+    - Esto ha crecido mucho hasta crear la Ingeniería del conocimiento que busca una metodología para estos sistemas.
       - Ingeniería del conocimiento.
         - Se parte de una descripción de alto nivel
+          - Se ha de obtener el conocimiento
+          - Se busca como representarlo 
         - Se obtiene conocimiento (humano u otras fuentes)
         - Se busca como representar este conocmiento
         - Se selecciona tecnicas adecuadas para su implementación

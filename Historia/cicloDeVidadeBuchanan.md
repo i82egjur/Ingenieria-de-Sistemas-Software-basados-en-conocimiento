@@ -8,6 +8,10 @@ implementada en un computador.
 - Buchanan culmino el paradigma de la IC como proceso de transferencia.
   - Este presento el desarrollo de un SBC como un proceso de adquisición de conocimiento entendido como:
     - Transferencia y transformación de la experiencia  a un programa.
+  - Este conocimiento era extraido por el Ingeniero de conocimiento y estaba formado por hechos, procedimientos y reglas.
+  - La parte más importante de Buchanan es identificar el cuello de botella de la adquisición de conocimiento, problema que aparecía a consecuencia
+    de la falta de conocimiento del ingeniero sobre el dominio de la aplicación.
+  - La metodología propuesta para solucionarlo se basaba en el tipico ciclo de vida de la IS
 
 ![imagen](https://user-images.githubusercontent.com/55484111/115199677-be970f00-a0f3-11eb-8eba-a1fb7c66f38d.png)
 

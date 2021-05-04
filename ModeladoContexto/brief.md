@@ -20,4 +20,6 @@
     contexto organizacional)_, **soluciones** _(listado con las posibles soluciones para los problemas percibidos en el contexto de la organización) _
     
 - Formulario OM-2:
-  -  
+  -  Nos centramos en la estructura del proceso de negocio (se modelan con diagramas de actividad UML) y una descripción del personal que realizaremos mediante organigramas y los recursos necesarios.
+
+

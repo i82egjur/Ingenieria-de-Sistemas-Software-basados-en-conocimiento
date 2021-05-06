@@ -85,7 +85,7 @@ Con el anterior, creamos un programa que imprima el anterior en formato el xml y
 Ejecución:
 
     rafa@rafa-PE70-6QE:~/Imágenes/ejerciciosRDF/rdflib/ejemploRdf$ python3 ejemploRDF.py 
-    b'<?xml version="1.0" encoding="UTF-8"?>\n<rdf:RDF\n   xmlns:foaf="http://xmlns.com/foaf/0.1/"\n   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-             ns#"\n>\n 
+    b'<?xml version="1.0" encoding="UTF-8"?>\n<rdf:RDF\n   xmlns:foaf="http://xmlns.com/foaf/0.1/"\n   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"\n>\n 
         <rdf:Description rdf:nodeID="N7d2b909c69304c6da4068340599b2925">\n    
         <foaf:name>PatatasConCarne</foaf:name>\n  
         <foaf:Tiene rdf:nodeID="Ndf9535d95e16410ea5e75d7454c6ceeb"/>\n    
